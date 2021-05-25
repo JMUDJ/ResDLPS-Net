@@ -4,4 +4,5 @@ In this project, we propose a network for point cloud semantic segmentation, whi
 ### Experiment
 The experimental result on Toronto-3D dataset is shown as follow.
 
-![](https://github.com/JMUDJ/ResDLPS-Net/blob/master/doc/images/mIoU.jpg?raw=true)
+![graphical](https://user-images.githubusercontent.com/72545836/119536387-9e760200-bdbb-11eb-938f-47d8e643c5f1.png?raw=true)
+
